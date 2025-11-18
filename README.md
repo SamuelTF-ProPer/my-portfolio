@@ -1,6 +1,7 @@
 # I am Samuel Tarifa Flores
-### Who am I?
-Hello, I am Samuel Tarifa Flores, a person who codes mostly for fun (and also to get a job). My main objective right now is to develop my skills (coding, 3D modeling, and video editing mainly). The reason for that is that I am a person who likes to do things overall and is often doing projects on his own. Right now, my two main projects are:
+### What do i do?
+Right now i am studiying to get a 
+I codes mostly for fun (and also to get a job). My main objective right now is to develop my skills (coding, 3D modeling, and video editing mainly). The reason for that is that I am a person who likes to do things overall and is often doing projects on his own. Right now, my two main projects are:
   - My videogame (On hiatus until i am better at 3D modeling)
   - My youtube chanel (I am slowly getting to something)
 
