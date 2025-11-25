@@ -14,7 +14,7 @@ It is true that it seems like an useless step, but it's actually a good investme
 
 Also something which is very important for any videogame developer is their reach (the amount of people that will know about their game once it's out) Creating a videogame it's no easy task, and it takes a lot of time which would be wasted if barely anyone knows about it. Due to this the YouTube chanel is integral to my plan since it will allow me to have a very big amount of players as soon as it is released
 
-# What is my formation at the moment?
+# :memo: What is my formation at the moment?
 However, until I can actually start living off of those, I first need to get a job that will support me financially. For that, I am still studying to gain more knowledge and skills. What I have done so far related to IT is:
   - Technician in Microinformatic Systems and Networks
   - CISCO (Placeholder)
