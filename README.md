@@ -7,10 +7,10 @@ First off i'm already doing things towards my goal, right now I am learning to c
   1. Grow my YouTube channel until I can live off of it
   2. Leave my job and work full-time on the YouTube Chanel until I can live off of it and pay an editor
   3. Keep on creating videos with the help of my editor and start developing my game
-  4. Once its on a late stage of developement start making videos about it and fund it with the money I make off of them
+  4. Once it's on a late stage of developement start making videos about it and fund it with the money I make off of them
 
 ### Why do you need the YouTube channel?
-It is true that it seems like an useless step, but its actually a good investment. So even if YouTube takes a lot of time which will be a problem at the begining once i can pay an editor all i have to do is write the scripts and the voice lines for each video. Meaning that i will have a source of income (After a lot of hard work) which will allow me to work 2 hours a day at most while i have all of the other time to develop my videogame
+It is true that it seems like an useless step, but it's actually a good investment. So even if YouTube takes a lot of time which will be a problem at the begining once I can pay an editor all I have to do is write the scripts and the voice lines for each video. Meaning that I will have a source of income (after a lot of hard work) which will allow me to work 2 hours a day at most while I have all of the other time to develop my videogame
 
 Also something which is very important for any videogame developer is their reach (the amount of people that will know about their game once it's out) Creating a videogame it's no easy task, and it takes a lot of time which would be wasted if barely anyone knows about it. Due to this the YouTube chanel is integral to my plan since it will allow me to have a very big amount of players as soon as it is released
 
