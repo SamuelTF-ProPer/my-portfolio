@@ -1,8 +1,8 @@
 # I am Samuel Tarifa Flores :bust_in_silhouette:
-### What do I do? 
+### What do I do? :thought_balloon:
 Right now I am studiying to be a developer of web aplications since i'ts a job that I enjoy and also aligns with my objectives on the long run. At the moment I'm trying to upgrade my skills (mainly coding and video editing) because at some point in my life I would like to develop videogames of my own.
 
-### What am I going to do to acomplish my objective?
+### What am I going to do to acomplish my objective? :white_check_mark:
 First off i'm already doing things towards my goal, right now I am learning to code (for the videogame and the job) and also I am trying to grow my youtube chanel (which will be used to promote the game once it's made). However a lot of people coud clasify my actions as foolish and naive, due to this I am studiying to become a developer of web aplications to maintain myself economically while I strive for my Objectives. Once I land in a stable job I have a small roadmap for the objectives I have to acomplish to reach my objective:
   1. Grow my YouTube channel until I can live off of it
   2. Leave my job and work full-time on the YouTube Chanel until I can live off of it and pay an editor
