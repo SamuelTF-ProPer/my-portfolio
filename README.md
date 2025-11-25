@@ -1,5 +1,5 @@
-# I am Samuel Tarifa Flores
-### What do I do?
+# I am Samuel Tarifa Flores :bust_in_silhouette:
+### What do I do? 
 Right now I am studiying to be a developer of web aplications since i'ts a job that I enjoy and also aligns with my objectives on the long run. At the moment I'm trying to upgrade my skills (mainly coding and video editing) because at some point in my life I would like to develop videogames of my own.
 
 ### What am I going to do to acomplish my objective?
