@@ -1,11 +1,19 @@
 # I am Samuel Tarifa Flores
 ### What do i do?
-Right now i am studiying to get a 
-I codes mostly for fun (and also to get a job). My main objective right now is to develop my skills (coding, 3D modeling, and video editing mainly). The reason for that is that I am a person who likes to do things overall and is often doing projects on his own. Right now, my two main projects are:
-  - My videogame (On hiatus until i am better at 3D modeling)
-  - My youtube chanel (I am slowly getting to something)
+Right now I am studiying to be a developer of web aplications since its a job that I enjoy and also aligns with my objectives on the long run. At the moment I'm trying to upgrade my skills (mainly coding and video editing) because at some point in my life I would like to develop videogames of my own.
 
-However, until I can actually start living off of those, I first need to get a job that will support me financially. For that, I am still studying to gain more knowledge and skills. What i have done so far related to IT is:
+### What am I going to do to acomplish my objective?
+First off im already doing things towards my goal, right now i am learning coding (for the videogame and the job) and also am trying to grow my youtube chanel (which will be used to promote the game once its made). However a lot of people coud clasify my actions as foolish and naive, due to this I am studiying to become a developer of web aplications to maintain myself economically while I strive for my Objectives. Once I land in a stable job I have a small roadmap for the objectives I have to acomplish to reach my objective:
+  1. Grow my YouTube channel until I can live off of it
+  2. Leave my job and work full-time on the YouTube Chanel until I can live off of it and pay an editor
+  3. Keep on creating videos with the help of my editor and start developing my game
+  4. Once its on a late stage of developement start making videos about it and fund it with the money I make off of them
+
+### Why do you need the YouTube channel?
+It is true that it seems like an useless step, but its actually a good investment. So even if YouTube takes a lot of time which will be a problem at the begining once i can pay an editor all i have to do is write the scripts and the voice lines for each video. Meaning that i will have a source of income (After a lot of hard work) which will allow me to work 2 hours a day at most while i have all of the other time to develop my videogame
+
+
+However, until I can actually start living off of those, I first need to get a job that will support me financially. For that, I am still studying to gain more knowledge and skills. What I have done so far related to IT is:
   - Technician in Microinformatic Systems and Networks
   - CISCO (Placeholder)
   - Technician in Development of Web Applications (In progress)
