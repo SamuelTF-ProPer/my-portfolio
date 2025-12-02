@@ -20,7 +20,7 @@ However, until I can actually start living off of those, I first need to get a j
   - CISCO (Placeholder)
   - Technician in Development of Web Applications (In progress)
 
-### My experience with coding 💻:
+### My experience with coding 💻
 Most of my coding experience has been on lone proyects I did when I was younger, I have mostly used Godot to make videogames. After that on a more formal setting I am learning how to use Python, I can say I am a lot better than I used to and while I dont have any experience working as a programmer I am still very capable using Python. However I still have to get used to other programming languages as my experience outside of python is very limited
 
 ### My experience with mark-up languages 🌐
